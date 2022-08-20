@@ -1,3 +1,3 @@
 # devcontainer dotfiles
 
-Default devcontainer dotfiles reposytory.
+Default devcontainer dotfiles repository.
