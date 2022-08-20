@@ -1,0 +1,13 @@
+antigen use oh-my-zsh
+
+antigen bundle git
+antigen bundle npm
+antigen bundle node
+
+antigen bundle zsh-users/zsh-autosuggestions
+antigen bundle zsh-users/zsh-completions
+antigen bundle zsh-users/zsh-syntax-highlighting
+
+antigen theme robbyrussell
+
+antigen apply
